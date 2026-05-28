@@ -1,0 +1,3 @@
+EXTM3U
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/HBO_(Asia)/HBO_(Asia)-Logo.wine.png" group-title="ALL Channels", HBO Asia Indonesia (720p)
+https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
