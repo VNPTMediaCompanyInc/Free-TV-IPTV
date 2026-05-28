@@ -27,7 +27,7 @@ Simply paste the link to one of the playlists into [any video player](https://t.
 The main playlist containing all channels available in the repository can be found at:
 
 ```
-https://t.freetv.fun/m3u/playlist_all.m3u
+https://raw.githubusercontent.com/7xd9rjyhtv-collab/Free-TV-IPTV/refs/heads/main/Freetv.m3u
 ```
 
 Links to other playlists can be found in the [PLAYLISTS.md](PLAYLISTS.md) file.
