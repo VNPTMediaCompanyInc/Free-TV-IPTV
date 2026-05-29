@@ -1,7 +1,7 @@
-import { Collection, Dictionary } from '@freearhey/core'
+import { Collection, Dictionary } from '@7xd9rjyhtv-collab/core'
 import { DATA_DIR } from './constants'
 import cliProgress from 'cli-progress'
-import * as sdk from '@iptv-org/sdk'
+import * as sdk from '@iptv-free/sdk'
 
 const data = {
   categoriesKeyById: new Dictionary<sdk.Models.Category>(),
