@@ -5,7 +5,7 @@ https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
 https://indihuy.streamized.net/atm/DASH/axn/manifest.mpd
 #EXTINF:-1 tvg-id=CartoonNetworkAsia.sg@Indonesia"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Kids", Cartoon Network Asia Indonesia (1080p)
 http://103.58.160.157:8278/720-CARTOONNETWORK/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids", Cartoonito Asia Indonesia (720p)
+#EXTINF:-1 tvg-id="CartoonitoAsia.sg@Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids", Cartoonito Asia Indonesia (720p)
 http://103.58.160.157:8278/720-CARTOONITO/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNAsia.sg@Vietmam" group-title="Entertainment" tvg-logo="https://freem3u.xyz/static/images/global/axn.png", AXN Asia Vietnam (1080p)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
