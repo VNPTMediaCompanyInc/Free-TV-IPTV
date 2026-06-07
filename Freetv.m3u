@@ -53,3 +53,5 @@ https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dmax.smil/manifest.mpd
 #EXTINF:-1 tvg-id="HBOSignatureAsia.sg@Indonesia" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/960px-HBO_Signature_Asia.png", HBO Signature Asia Indonesia (720p)
 https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us@Taiwan" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/55/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png/330px-1024px-DreamWorks_Animation_SKG_logo_with_fishing_boy.png", DreamWorks Asia Taiwan (1080p)
+https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
