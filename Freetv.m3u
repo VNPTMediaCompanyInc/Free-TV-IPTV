@@ -57,3 +57,5 @@ https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7
 https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@Taiwan" group-title="Movies" tvg-logo="https://i.imgur.com/c8crJfA.png", Cimemax Asia Taiwan (720p)
 https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyAsia.ph" group-title="Movies" tvg-logo="https://i.imgur.com/SefoKAw.png", HBO Family Asia Philippines (720p)
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
