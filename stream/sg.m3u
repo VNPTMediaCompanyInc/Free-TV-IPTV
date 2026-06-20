@@ -59,3 +59,5 @@ https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
 https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO Asia Taiwan (1080p)
 https://cdn.19891230.eu.org/api/HBO/index.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg@Thailand" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original", AXN Asia Thailand (1080p)
+http://s3.e-cdn.me/live/Bengamenbukinafaso2026/msvrpi45e1/1775981.m3u8
