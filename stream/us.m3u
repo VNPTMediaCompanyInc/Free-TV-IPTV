@@ -6,3 +6,9 @@ http://41.223.30.230/FOXSPORTS1/index.m3u8
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo.us@HD" group-title="Spinish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png", Telemundo United States HD (720p)
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="FX.us@East" group-title="Movies" tvg-logo="https://i.imgur.com/ZScwrpi.png", FX East (United States) (720p)
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 tvg-id="FXMovieChannel.us@HD" group-title="Movies" tvg-logo="https://comteco.com.bo/img/upload/canales/svCJXa.png", FX Movie Channel HD (1080p)
+http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3736.ts
+#EXTINF:-1 tvg-id="FXX.us@East" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png", FXX East (United States) (720p)
+http://23.237.104.106:8080/USA_FXX/index.m3u8
