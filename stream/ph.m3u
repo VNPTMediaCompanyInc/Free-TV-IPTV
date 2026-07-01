@@ -1,2 +1,4 @@
 #EXTINF:-1 tvg-id="HBOFamilyAsia.ph" group-title="Movies" tvg-logo="https://i.imgur.com/SefoKAw.png", HBO Family Asia Philippines (720p)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
