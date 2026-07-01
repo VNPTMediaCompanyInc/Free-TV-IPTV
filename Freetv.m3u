@@ -58,6 +58,8 @@ https://cdn.19891230.eu.org/4gtv/4gtv-live017/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@Taiwan" group-title="Movies" tvg-logo="https://i.imgur.com/c8crJfA.png", Cimemax Asia Taiwan (720p)
 https://cdn.19891230.eu.org/api/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyAsia.ph" group-title="Movies" tvg-logo="https://i.imgur.com/SefoKAw.png", HBO Family Asia Philippines (720p)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 #EXTINF:-1 tvg-id="HBO.us@East" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png", HBO USA East (1080p)
 http://23.237.104.106:8080/USA_HBO/index.m3u8
